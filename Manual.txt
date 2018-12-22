@@ -1,0 +1,2 @@
+- To test, you should put source code text file next to parser.exe file and its name should be "src_code.txt".
+- The nodes of the tree are dynamic.you can move them if they were not obvious.
